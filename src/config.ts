@@ -28,18 +28,18 @@ export const siteConfig: SiteConfig = {
   ],
 }
 
-// export const navBarConfig: NavBarConfig = {
-//   links: [
-//     LinkPreset.Home,
-//     LinkPreset.Archive,
-//     LinkPreset.About,
-//     {
-//       name: 'GitHub',
-//       url: 'https://github.com/saicaca/fuwari', // Internal links should not include the base path, as it is automatically added
-//       external: true, // Show an external link icon and will open in a new tab
-//     },
-//   ],
-// }
+export const navBarConfig: NavBarConfig = {
+  links: [
+    LinkPreset.Home,
+    LinkPreset.Archive,
+    LinkPreset.About,
+    {
+      name: 'GitHub',
+      url: 'https://github.com/jaerinkim', // Internal links should not include the base path, as it is automatically added
+      external: true, // Show an external link icon and will open in a new tab
+    },
+  ],
+}
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/DSwallpaper2.webp', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
