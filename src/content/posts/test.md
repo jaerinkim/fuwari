@@ -1,10 +1,10 @@
 ---
 title: What to expect here
 published: 2024-06-08
-description: 'What I'll be doing here for a while'
+description: What I'll be doing here for a while
 image: ''
 tags: []
-category: 'Intro'
+category: Intro
 draft: false 
 ---
 
